@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"BanReason"   
+	{
+		"en"		"Banned for spam with name changes!"
+		"pl"		"Zostałeś zbanowany za zbyt częstą zmianę nicku!"
+	}
+}
